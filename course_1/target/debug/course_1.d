@@ -1,0 +1,1 @@
+D:\github\rust\course_1\target\debug\course_1.exe: D:\github\rust\course_1\src\loop1.rs D:\github\rust\course_1\src\loop2\loop2.rs D:\github\rust\course_1\src\loop2\mod.rs D:\github\rust\course_1\src\main.rs
